@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Hugo Tailwind"
+SectionPagesMenu = "main"
+publishDir = "docs"

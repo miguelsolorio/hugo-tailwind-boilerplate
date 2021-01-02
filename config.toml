@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://misolori.github.io/hugo-tailwind-boilerplate/"
 languageCode = "en-us"
 title = "Hugo Tailwind"
 SectionPagesMenu = "main"

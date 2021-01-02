@@ -5,7 +5,7 @@
 			"type": "npm",
 			"script": "develop",
 			"problemMatcher": [],
-			"label": "npm: start",
+			"label": "Start Hugo Server",
 			"detail": "hugo server -D",
 			"group": {
 				"kind": "build",

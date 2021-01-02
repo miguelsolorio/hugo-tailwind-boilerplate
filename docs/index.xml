@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Hugo Tailwind</title>
+    <link>/</link>
+    <description>Recent content in Home on Hugo Tailwind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2021 14:51:19 -0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Fri, 01 Jan 2021 14:35:54 -0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This site use Hugo and Tailwind.</description>
+    </item>
+    
+    <item>
+      <title>Page 1</title>
+      <link>/page1/</link>
+      <pubDate>Thu, 31 Dec 2020 15:38:34 -0800</pubDate>
+      
+      <guid>/page1/</guid>
+      <description>Code A system of signals used to represent letters or numbers in transmitting messages.
+A system of symbols, letters, or words given certain arbitrary meanings, used for transmitting messages requiring secrecy or brevity.</description>
+    </item>
+    
+  </channel>
+</rss>
